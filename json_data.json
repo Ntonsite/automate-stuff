@@ -1,0 +1,1152 @@
+[
+    {
+        "id": "ppr001q001",
+        "question": "Which angels did God station at the entrance of Eden to prevent Adam and Eve from approaching the tree of life?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Cherubim"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Seraphim"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Guardian angels"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Archangels"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "id": "ppr001q002",
+        "question": "According to the Bible, who lived the longest on earth?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Adam"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Methuselah"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Enoch"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Seth"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "id": "ppr001q003",
+        "question": "When the great flood had subsided, on what mountain did the ark of Noah come to rest?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Mount Sinai"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Mount Nebo"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Mount Hermon"
+            },
+            {
+                "identifier": "D",
+                "Answer": "None of the above"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "id": "ppr001q004",
+        "question": "Who is the son of Noah who became the ancestor of the Hebrews?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Shem"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Ham"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Japheth"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Javan"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "id": "ppr001q005",
+        "question": "Which was true of all three: Sarah, Hannah, and Elizabeth?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "barren"
+            },
+            {
+                "identifier": "B",
+                "Answer": "old"
+            },
+            {
+                "identifier": "C",
+                "Answer": "unloved"
+            },
+            {
+                "identifier": "D",
+                "Answer": "cheerful"
+            }
+        ],
+        "correct_answer": null
+    },
+    {
+        "id": "ppr001q006",
+        "question": "What is the nationality of Hagar, the slave of Sarah?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Canaanite"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Hebrew"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Egyptian"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Aramean"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "id": "ppr001q007",
+        "question": "Ishmael is the son of Abraham and",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Hagar"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Sarah"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Keturah"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Bilhah"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "id": "ppr001q008",
+        "question": "Who is the biblical figure whose name means \"laughter\"?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Ishmael"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Isaac"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Jacob"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Joseph"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "id": "ppr001q009",
+        "question": "Whom did Isaac marry?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Leah"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Rachel"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Rebekah"
+            },
+            {
+                "identifier": "D",
+                "Answer": "None of the above"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "id": "ppr001q010",
+        "question": "Who is Jacob's daughter who was raped by Shechem?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Dinah"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Delilah"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Delomer-tamar"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Deborah"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "id": "ppr001q011",
+        "question": "Who is Jacob's eldest son who lost his birth right for sleeping with Rachel's maid, Bilhah?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Levi"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Dan"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Judah"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Reuben"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "id": "ppr001q012",
+        "question": "From which tribe of Israel was the Messiah expected to come?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Levi"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Simeon"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Benjamin"
+            },
+            {
+                "identifier": "D",
+                "Answer": "None of the above"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "id": "ppr001q013",
+        "question": "Which of these is Moses' son born in Midian?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Meron"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Amram"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Reuel"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Gershom"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "id": "ppr001q014",
+        "question": "What is the name of Moses' wife?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Miriam"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Jechobed"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Zipporah"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Addah"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "id": "ppr001q015",
+        "question": "What is the tenth plague in Egypt that finally forced Pharaoh to let the Israelites go?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Darkness"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Death of the first-born"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Water turned to blood"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Locusts"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "id": "ppr001q016",
+        "question": "What is the oasis in the desert the water of which the Israelites could not drink because it was too bitter?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Meribah"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Elim"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Marah"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Ein-Gedi"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "id": "ppr001q017",
+        "question": "After the Exodus from Egypt, where did God meet the Israelites?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Mt. Carmel"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Mt. Zion"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Mt. Hermon"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Mt. Horeb"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "id": "ppr001q018",
+        "question": "On what holy day did the High Priest enter the \"Holy of Holies\" in the temple of the Lord?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Day of Atonement (Yom Kippur)"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Purim"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Passover"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Dedication"
+            }
+        ],
+        "correct_answer": null
+    },
+    {
+        "id": "ppr001q019",
+        "question": "What tribe of Israel did priests who ministered to the Lord come from?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Judah"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Joseph"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Benjamin"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Levi"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "id": "ppr001q020",
+        "question": "Nadab and Abihu were consumed by fire because they offered unholy.",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "animal fat"
+            },
+            {
+                "identifier": "B",
+                "Answer": "incense"
+            },
+            {
+                "identifier": "C",
+                "Answer": "fire"
+            },
+            {
+                "identifier": "D",
+                "Answer": "prayer"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "id": "ppr001q021",
+        "question": "Who became a leper for questioning the authority of Moses?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Aaron"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Korah"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Miriam"
+            },
+            {
+                "identifier": "D",
+                "Answer": "The Pharaoh"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "id": "ppr001q022",
+        "question": "Which of these was nor put inside the Ark of the Covenant?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Staff of Moses"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Staff of Aaron"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Jar containing the manna"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Tablets of the covenant"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "id": "ppr001q023",
+        "question": "Who prophesied about a star advancing from Jacob and a staff arising from Israel in the Book of Numbers?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Daniel"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Balak"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Balaam"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Haggai"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "id": "ppr001q024",
+        "question": "Where did Joshua gather the Israelites to renew their covenant with God just before Joshua's death?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Shechem"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Mount Tabor"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Shiloh"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Jericho"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "id": "ppr001q025",
+        "question": "Because the time of famine had passed, Ruth and Naomi left Moab to return to",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Jezreel Valley"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Jerusalem"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Bethlehem (Ru 1:19)"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Bethel"
+            }
+        ],
+        "correct_answer": null
+    },
+    {
+        "id": "ppr001q026",
+        "question": "Who was the god of the Philistines whose statute fell down before the Ark of the Covenant?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Baal"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Gaal"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Isis"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Dagon"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "id": "ppr001q027",
+        "question": "Saul was punished for not killing the Amalekite king",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Ahab"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Agag"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Anak"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Ahaz"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "id": "ppr001q028",
+        "question": "On what mountain did Saul, Jonathan, and other sons of Saul die in the battle against the Philistines?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Mount Gilboa"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Mount Tabor"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Mount Moriah"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Mount Gerizim"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "id": "ppr001q029",
+        "question": "Who is the wife of Uriah who had an adulterous union with King David? ",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Bathsheba"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Ahinoam"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Abigail"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Bethulah"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "id": "ppr001q030",
+        "question": "At whose threshing floor did David build an altar to the Lord?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Arphaxad the Philistine"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Aranhuez the Ephraimite"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Araunah the lebusite"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Arbite the Shunammite"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "id": "ppr001q031",
+        "question": "Who is the priest who supported Adonijah when this declared he had the right to succeed David?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Abiathar"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Bildad"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Abner"
+            },
+            {
+                "identifier": "D",
+                "Answer": "None of the above"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "id": "ppr001q032",
+        "question": "Who led a revolt against King Rehoboam, the son of Solomon?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Absalom"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Jeroboam"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Nathan"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Jehu"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "id": "ppr001q033",
+        "question": "\"If only my lord were with the prophet who is in Samaria! He would cure him of his leprosy\" is the word of Naaman's",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Concubine"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Wife"
+            },
+            {
+                "identifier": "C",
+                "Answer": "slave girl"
+            },
+            {
+                "identifier": "D",
+                "Answer": "scribe"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "id": "ppr001q034",
+        "question": "King Shalmaneser conquered the northern kingdom of Israel and deported the people to",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Persia"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Assyria"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Macedonia"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Babylon"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "id": "ppr001q035",
+        "question": "Who exiled the inhabitants of Judah to Babylon?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Evil-Merodach"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Sennacherib"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Nebuchadnezzar"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Tiglath-pelizer"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "id": "ppr001q036",
+        "question": "Ezra read the Law and instructed them how to celebrate the feast of",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Passover"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Atonement"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Tabernacles"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Weeks"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "id": "ppr001q037",
+        "question": "Who was the angel who accompanied Tobiah to Ecatana and rescued him from the demon Asmodeus?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Michael"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Raphael"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Gabriel"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Tobiel"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "id": "ppr001q038",
+        "question": "\"The Lord is my shepherd, there is nothing I lack\" is in which Palsm?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Psalm 8"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Psalm 137"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Psalm 51"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Psalm 23"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "id": "ppr001q039",
+        "question": "Who composed the Miserere psalm (Psalm 51) which begins: \"Have mercy on me, God, in your goodness; in your abundant compassion blot out my offense\"?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Job"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Solomon"
+            },
+            {
+                "identifier": "C",
+                "Answer": "David"
+            },
+            {
+                "identifier": "D",
+                "Answer": "None of the above"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "id": "ppr001q040",
+        "question": "Which psalm sings of the Jews' lament of their exile in Babylon?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Psalm 23"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Psalm 22"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Psalm 8"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Psalm 137"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "id": "ppr001q041",
+        "question": "\"There is an appointed time for everything... A time to be born, and a time to die; a time to plant, and a time to uproot the plant\"?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Proverbs"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Song of Songs"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Ecclesiastes (Eccl 3:1-2)"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Wisdom"
+            }
+        ],
+        "correct_answer": null
+    },
+    {
+        "id": "ppr001q042",
+        "question": "Where do we find the oracles on the Ebed YHWH or the Servant of the Lord?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Isaiah 1-12"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Isaiah 13-23"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Isaiah 40-55"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Isaiah 56-66"
+            }
+        ],
+        "correct_answer": null
+    },
+    {
+        "id": "ppr001q043",
+        "question": "Which prophet said that God's law would be written upon the hearts of God's people, Israel?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Jeremiah"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Ezekiel"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Hosea"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Micah"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "id": "ppr001q044",
+        "question": "What did Jeremiah buy, and after which he gave to Baruch its sealed deed of purchase?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "a sword"
+            },
+            {
+                "identifier": "B",
+                "Answer": "a piece of jewelry"
+            },
+            {
+                "identifier": "C",
+                "Answer": "a yoke"
+            },
+            {
+                "identifier": "D",
+                "Answer": "a piece of land"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "id": "ppr001q045",
+        "question": "Who was the prophet who saw the vision of creatures that had faces of a human being, lion, ox, and eagle?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Jeremiah"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Joel"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Ezekiel"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Daniel"
+            }
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "id": "ppr001q046",
+        "question": "In the Book of Daniel, the young Daniel separated the two elders from each other in order to examine them, and in the process, he saved the innocent.",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Hannah"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Susanna"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Sarah"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Deborah"
+            }
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "id": "ppr001q047",
+        "question": "In the Hebrew canon which of the following is not considered a prophetic book?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Ezekiel"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Daniel"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Nahum"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Hosea"
+            }
+        ],
+        "correct_answer": null
+    },
+    {
+        "id": "ppr001q048",
+        "question": "The animal that attacked and withered the bush under which Jonah prayed was a",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "horse"
+            },
+            {
+                "identifier": "B",
+                "Answer": "cow"
+            },
+            {
+                "identifier": "C",
+                "Answer": "giraffe"
+            },
+            {
+                "identifier": "D",
+                "Answer": "worm"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "id": "ppr001q049",
+        "question": "\"But you, Bethlehem-Ephrathah, too small to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel\"?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Isaiah"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Jeremiah"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Hosea"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Micah"
+            }
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "id": "ppr001q050",
+        "question": "What is the last book of the Old Testament in the Catholic canon?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Daniel"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Malachi"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Zechariah"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Hagga"
+            }
+        ],
+        "correct_answer": "D"
+    }
+]

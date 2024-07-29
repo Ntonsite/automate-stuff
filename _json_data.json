@@ -1,0 +1,48 @@
+[
+    {
+        "id": "ppr001q001",
+        "question": "Which angels did God station at the entrance of Eden to prevent Adam and Eve from approaching the tree of life?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Cherubim"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Seraphim"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Guardian angels"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Archangels"
+            }
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "id": "ppr001q002",
+        "question": "According to the Bible, who lived the longest on earth?",
+        "answers": [
+            {
+                "identifier": "A",
+                "Answer": "Adam"
+            },
+            {
+                "identifier": "B",
+                "Answer": "Methuselah"
+            },
+            {
+                "identifier": "C",
+                "Answer": "Enoch"
+            },
+            {
+                "identifier": "D",
+                "Answer": "Seth"
+            }
+        ],
+        "correct_answer": "B"
+    }
+]
